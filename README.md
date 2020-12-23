@@ -10,5 +10,5 @@ Does the same but takes as input live image from camera.
 #
 # A video I made using this program and Pure Data
 
-[![Pyrospeed](https://img.youtube.com/vi/LX_PmcynuGk/0.jpg)](https://www.youtube.com/watch?v=LX_PmcynuGk)
+[![Pyrospeed](https://img.youtube.com/vi/p0kEqSnkv3g/0.jpg)](https://www.youtube.com/watch?v=p0kEqSnkv3g)
 #
